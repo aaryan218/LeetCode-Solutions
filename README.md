@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0015-3sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -37,8 +38,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0015-3sum](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0015-3sum) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
