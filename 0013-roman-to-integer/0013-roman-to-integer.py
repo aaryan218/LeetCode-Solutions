@@ -14,9 +14,13 @@ class Solution(object):
             "M": 1000
         }
         n = 0
-        s = s.replace("IV", "IIII").replace("IX", "VIIII")
-        s = s.replace("XL", "XXXX").replace("XC", "LXXXX")
-        s = s.replace("CD", "CCCC").replace("CM", "DCCCC")
-        for i in s:
-            n += pair[i]
+        for i in range(len(s)):
+            curr = pair[s[i]]
+            next_val = pair[s[i+1]] if i+1 < len(s) else 0
+
+            if curr<next_val:
+                n -= curr
+            else:
+                n += curr
         return n
+            
