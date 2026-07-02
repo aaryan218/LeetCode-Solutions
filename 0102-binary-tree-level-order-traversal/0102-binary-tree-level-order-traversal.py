@@ -10,14 +10,21 @@ class Solution(object):
         :type root: Optional[TreeNode]
         :rtype: List[List[int]]
         """
-
         if not root:
             return []
-        ans, level = [], [root]
-        while level:
-            ans.append([node.val for node in level])
-            temp = []
-            for node in level:
-                temp.extend([node.left, node.right])
-            level = [leaf for leaf in temp if leaf]
+        que = deque([root])
+        ans = []
+
+        while que:
+            curr_level = []
+            for _ in range(len(que)):
+                node = que.popleft()
+                curr_level.append(node.val)
+                if node.left:
+                    que.append(node.left)
+                if node.right:
+                    que.append(node.right)
+            ans.append(curr_level)
+        
         return ans
+                        
