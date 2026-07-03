@@ -36,6 +36,7 @@
 | [0005-longest-palindromic-substring](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 ## Sliding Window
 |  |
 | ------- |
@@ -73,4 +74,8 @@
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
