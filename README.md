@@ -8,6 +8,7 @@
 | [0001-two-sum](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0048-rotate-image](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0048-rotate-image) |
+| [0905-sort-array-by-parity](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
 ## Hash Table
 |  |
 | ------- |
@@ -50,6 +51,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0015-3sum) |
+| [0905-sort-array-by-parity](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -59,6 +61,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0015-3sum) |
+| [0905-sort-array-by-parity](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Tree
 |  |
