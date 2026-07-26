@@ -12,6 +12,7 @@
 | [0048-rotate-image](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0051-n-queens) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0084-largest-rectangle-in-histogram](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0905-sort-array-by-parity](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [0994-rotting-oranges](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
@@ -112,6 +113,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 ## Matrix
 |  |
@@ -138,5 +140,6 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
