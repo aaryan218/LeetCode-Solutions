@@ -63,6 +63,7 @@
 | [0013-roman-to-integer](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 ## Sliding Window
 |  |
 | ------- |
@@ -83,6 +84,7 @@
 | [0005-longest-palindromic-substring](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 ## Sorting
 |  |
 | ------- |
@@ -113,6 +115,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0225-implement-stack-using-queues](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0496-next-greater-element-i](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
