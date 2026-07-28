@@ -154,4 +154,8 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
