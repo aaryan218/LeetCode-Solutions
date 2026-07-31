@@ -8,6 +8,7 @@
 | [0001-two-sum](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0037-sudoku-solver](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0051-n-queens) |
@@ -23,6 +24,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
+| [0037-sudoku-solver](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
 | [0142-linked-list-cycle-ii](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0496-next-greater-element-i](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
@@ -128,6 +130,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0994-rotting-oranges](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
 ## Divide and Conquer
@@ -146,6 +149,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0051-n-queens) |
 ## Monotonic Stack
 |  |
