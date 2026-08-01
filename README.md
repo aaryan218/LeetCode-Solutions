@@ -14,6 +14,7 @@
 | [0051-n-queens](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0051-n-queens) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0486-predict-the-winner](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0905-sort-array-by-parity](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [0994-rotting-oranges](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
@@ -46,6 +47,7 @@
 | [0012-integer-to-roman](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0048-rotate-image) |
+| [0486-predict-the-winner](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/aaryan218/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Recursion
 |  |
@@ -55,6 +57,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0025-reverse-nodes-in-k-group) |
+| [0486-predict-the-winner](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 ## String
 |  |
 | ------- |
@@ -89,6 +92,7 @@
 | [0010-regular-expression-matching](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
+| [0486-predict-the-winner](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 ## Sorting
 |  |
 | ------- |
@@ -175,4 +179,8 @@
 |  |
 | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/aaryan218/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
