@@ -28,6 +28,7 @@
 | [0037-sudoku-solver](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
 | [0142-linked-list-cycle-ii](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0460-lfu-cache](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Linked List
@@ -40,6 +41,7 @@
 | [0025-reverse-nodes-in-k-group](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0061-rotate-list) |
 | [0142-linked-list-cycle-ii](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0460-lfu-cache](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0460-lfu-cache) |
 ## Math
 |  |
 | ------- |
@@ -167,6 +169,7 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
+| [0460-lfu-cache](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0460-lfu-cache) |
 ## Queue
 |  |
 | ------- |
@@ -183,4 +186,8 @@
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0460-lfu-cache](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0460-lfu-cache) |
 <!---LeetCode Topics End-->
