@@ -19,6 +19,7 @@
 | [0877-stone-game](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [0994-rotting-oranges](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
+| [1406-stone-game-iii](https://github.com/aaryan218/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -53,6 +54,7 @@
 | [0048-rotate-image](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0486-predict-the-winner](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/aaryan218/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/aaryan218/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Recursion
 |  |
@@ -99,6 +101,7 @@
 | [0032-longest-valid-parentheses](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0486-predict-the-winner](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/aaryan218/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
 ## Sorting
 |  |
 | ------- |
@@ -191,8 +194,17 @@
 | ------- |
 | [0486-predict-the-winner](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/aaryan218/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [0460-lfu-cache](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0460-lfu-cache) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/aaryan218/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/aaryan218/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
