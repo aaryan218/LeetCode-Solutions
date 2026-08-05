@@ -123,6 +123,7 @@
 | ------- |
 | [0101-symmetric-tree](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0101-symmetric-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [3310-remove-methods-from-project](https://github.com/aaryan218/LeetCode-Solutions/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -131,6 +132,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
+| [3310-remove-methods-from-project](https://github.com/aaryan218/LeetCode-Solutions/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
 | ------- |
@@ -210,4 +212,8 @@
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/aaryan218/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
+## Graph Theory
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/aaryan218/LeetCode-Solutions/tree/master/3310-remove-methods-from-project) |
 <!---LeetCode Topics End-->
