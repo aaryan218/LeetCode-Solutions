@@ -59,6 +59,7 @@
 | [1406-stone-game-iii](https://github.com/aaryan218/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/aaryan218/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/aaryan218/LeetCode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/aaryan218/LeetCode-Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -81,6 +82,7 @@
 | [0022-generate-parentheses](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/aaryan218/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/aaryan218/LeetCode-Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -176,6 +178,7 @@
 | [0022-generate-parentheses](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0051-n-queens) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/aaryan218/LeetCode-Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -198,6 +201,7 @@
 |  |
 | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/aaryan218/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/aaryan218/LeetCode-Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Game Theory
 |  |
 | ------- |
@@ -228,4 +232,8 @@
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/aaryan218/LeetCode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
+## Number Theory
+|  |
+| ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/aaryan218/LeetCode-Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 <!---LeetCode Topics End-->
