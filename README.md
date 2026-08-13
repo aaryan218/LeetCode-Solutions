@@ -21,6 +21,7 @@
 | [0994-rotting-oranges](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
 | [1140-stone-game-ii](https://github.com/aaryan218/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/aaryan218/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/aaryan218/LeetCode-Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aaryan218/LeetCode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aaryan218/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/aaryan218/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
@@ -88,6 +89,7 @@
 | [0020-valid-parentheses](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/aaryan218/LeetCode-Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/aaryan218/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/aaryan218/LeetCode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/aaryan218/LeetCode-Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -269,4 +271,12 @@
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/aaryan218/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
+## Segment Tree
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/aaryan218/LeetCode-Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Ordered Set
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/aaryan218/LeetCode-Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 <!---LeetCode Topics End-->
