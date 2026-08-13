@@ -13,6 +13,7 @@ class Solution:
             lc, lrc, llen, lp, ls, lb = left
             rlc, rc, rlen, rp, rs, rb = right
             length = llen + rlen
+            
 
             prefix = lp
 
