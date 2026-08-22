@@ -70,6 +70,7 @@
 | [0012-integer-to-roman](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0048-rotate-image) |
+| [0292-nim-game](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0292-nim-game) |
 | [0486-predict-the-winner](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/aaryan218/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
@@ -241,6 +242,7 @@
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0292-nim-game) |
 | [0486-predict-the-winner](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/aaryan218/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
@@ -255,6 +257,7 @@
 ## Minimax
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0292-nim-game) |
 | [1140-stone-game-ii](https://github.com/aaryan218/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/aaryan218/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/aaryan218/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
@@ -290,6 +293,7 @@
 ## Nim Game
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0292-nim-game) |
 | [1510-stone-game-iv](https://github.com/aaryan218/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
 | [2029-stone-game-ix](https://github.com/aaryan218/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
@@ -326,4 +330,12 @@
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/aaryan218/LeetCode-Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
