@@ -66,6 +66,7 @@
 | [0061-rotate-list](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0061-rotate-list) |
 | [0142-linked-list-cycle-ii](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0460-lfu-cache](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0460-lfu-cache) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/aaryan218/LeetCode-Solutions/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Math
 |  |
 | ------- |
